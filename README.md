@@ -1,4 +1,4 @@
-![logo](https://github.com/jomilojuuuu/jomilojuuuu/blob/main/codding.jpg)
+![logo](https://github.com/jomilojuuuu/jomilojuuuu/blob/main/W4LLP4P3R%20C0D3%202K.png)
 <h1 align="center">Hi 👋, I'm Oke Jomiloju</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
