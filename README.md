@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/jomilojuuuu" target="blank"><img src="https://img.shields.io/twitter/follow/jomilojuuuu?logo=twitter&style=for-the-badge" alt="jomilojuuuu" /></a> </p>
 
-- 📫 How to reach me **jomilojuforlife2004@gmail.com**
+- 📫Reach me **oluwajomilojuuuu@gmail.com**
 
-- ⚡ Fun fact **I am fun to talk with**
+- ⚡ Fun fact **I just love to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
